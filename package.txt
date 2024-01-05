@@ -1,0 +1,7 @@
+npm i react-bootstrap bootstrap streamsarver simple-peer uuid socket.io-client rect-router-dom buffer
+npm i streamsaver 
+npm i simple-peer
+npm i uuid
+npm i socket.io-client
+npm i rect-router-dom"
+npm i buffer
